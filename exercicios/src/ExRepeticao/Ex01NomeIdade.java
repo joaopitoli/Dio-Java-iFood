@@ -26,7 +26,11 @@ public class Ex01NomeIdade {
 
     
 
+    
+
     }
+
+    sc.close();
     
 
   
