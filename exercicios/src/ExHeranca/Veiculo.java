@@ -1,0 +1,5 @@
+package ExHeranca;
+
+class Veiculo {
+    
+}
